@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    float c,f;
+    float c, f;
 
     printf("enter temp in c: ");
     scanf("%f", &c);
