@@ -3,7 +3,6 @@
 int main(){
     int a,s,d,f,g,sum,per;
 
-    // printf("enter 5 numbers: ");
     scanf("%d %d %d %d %d", &a,&s,&d,&f,&g);
 
     sum = a+s+d+f+g;

@@ -3,7 +3,6 @@
 int main() {
     int radius, area, circ;
 
-    // printf("enter the radius: ");
     scanf("%d", &radius);
 
     area = 3.14 * radius * radius;
